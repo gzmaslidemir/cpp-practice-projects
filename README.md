@@ -17,5 +17,20 @@ A simple program that helps users track their monthly expenses.
 - Basic input/output
 - Conditional statements
 
+### 2. Grade Counter
+
+A program that reads letter grades and counts how many of each grade were entered.
+
+#### Features:
+- Accepts grades until EOF
+- Uses switch-case
+- Handles uppercase and lowercase inputs
+- Displays grade summary
+
+#### Technologies Used:
+- C++
+- Loops
+- Switch-case
+
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
