@@ -32,5 +32,21 @@ A program that reads letter grades and counts how many of each grade were entere
 - Loops
 - Switch-case
 
+### 3. String Reverser (`string-reverser.cpp`)
+
+A program that reverses a user-entered string and then toggles the case of each letter.
+
+#### Features:
+- Accepts a full line of text using `getline()`
+- Reverses the string
+- Changes uppercase letters to lowercase and lowercase letters to uppercase
+- Displays the results with colored output
+
+#### Technologies Used:
+- C++
+- Strings
+- Character functions
+- Loops
+
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
