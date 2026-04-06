@@ -48,5 +48,24 @@ A program that reverses a user-entered string and then toggles the case of each 
 - Character functions
 - Loops
 
+### 5. Employee Management System (`employee-management.cpp`)
+
+A program that stores and displays employee information using dynamic memory allocation.
+
+#### Features:
+- Uses a struct to store employee data
+- Dynamically allocates memory for multiple employees
+- Takes user input for employee details
+- Displays formatted employee information
+- Uses functions to organize code
+
+#### Technologies Used:
+- C++
+- Structs
+- Pointers
+- Dynamic memory (new/delete)
+- Functions
+
+
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
