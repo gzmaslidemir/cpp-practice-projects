@@ -173,8 +173,8 @@ void printStudents(Node* head)
     while(current != nullptr) //Traverse and print each student record
     {
        cout << "ID: " << current->student.id
-       <<", Name" << current->student.name 
-       << ", GPA " << current->student.gpa << endl;
+       <<", Name: " << current->student.name 
+       << ", GPA: " << current->student.gpa << endl;
        
        current = current->next;
     }
