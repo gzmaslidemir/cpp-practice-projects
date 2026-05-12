@@ -66,6 +66,23 @@ A program that stores and displays employee information using dynamic memory all
 - Dynamic memory (new/delete)
 - Functions
 
+### 6. Search Algorithm Comparison (`search-algorithm-comparison.cpp`)
+
+A program that compares linear search and binary search algorithms using a predefined sorted array.
+
+#### Features:
+- Allows the user to search for a value
+- Supports both linear search and binary search
+- Counts the number of iterations for each algorithm
+- Demonstrates algorithm efficiency and searching techniques
+
+#### Technologies Used:
+- C++
+- Arrays
+- Functions
+- Linear Search
+- Binary Search
+
 
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
