@@ -122,6 +122,22 @@ A simple text editor simulation that demonstrates undo and redo functionality us
 - Data Structures
 - Loops
 
+### 9. Merge Sort Algorithm (`merge-sort.cpp`)
+
+A recursive implementation of the Merge Sort algorithm using dynamic arrays.
+
+#### Features:
+- Sorts an array using the Merge Sort algorithm
+- Uses recursion and divide-and-conquer strategy
+- Dynamically allocates temporary arrays during merging
+- Displays the array before and after sorting
+
+#### Technologies Used:
+- C++
+- Recursion
+- Merge Sort
+- Dynamic Memory
+- Arrays
   
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
