@@ -83,6 +83,27 @@ A program that compares linear search and binary search algorithms using a prede
 - Linear Search
 - Binary Search
 
+### 7. Student Record Manager (`student-record-manager.cpp`)
 
+A menu-driven C++ application that manages student records using a linked list data structure.
+
+#### Features:
+- Add student records dynamically
+- Remove students by ID
+- Search for students
+- Print all student records
+- Uses linked lists and dynamic memory allocation
+- Frees allocated memory before program exit
+
+#### Technologies Used:
+- C++
+- Structs
+- Linked Lists
+- Pointers
+- Dynamic Memory
+- Functions
+- Menu-driven programming
+
+  
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
