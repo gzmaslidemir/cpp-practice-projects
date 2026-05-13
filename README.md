@@ -104,6 +104,24 @@ A menu-driven C++ application that manages student records using a linked list d
 - Functions
 - Menu-driven programming
 
+### 8. Undo/Redo Story Editor (`undo-redo-story-editor.cpp`)
+
+A simple text editor simulation that demonstrates undo and redo functionality using stacks and queues.
+
+#### Features:
+- Add words to a story
+- Undo the last entered word
+- Redo previously undone words
+- Print the final story in the correct order
+- Uses stacks and queues to manage data
+
+#### Technologies Used:
+- C++
+- Stacks
+- Queues
+- Data Structures
+- Loops
+
   
 ## About Me
 I am a Software Development student currently improving my C++ and problem-solving skills.
